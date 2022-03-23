@@ -1,4 +1,3 @@
-fruts
+frutas
 verduras
 arroz
-
